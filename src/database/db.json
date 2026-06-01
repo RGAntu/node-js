@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SKU-1001",
+    "name": "Anker Soundcore R50i TWS",
+    "description": "True wireless earbuds with Bluetooth connectivity, deep bass audio, and long battery life.",
+    "price": 1699
+  },
+  {
+    "id": "SKU-1002",
+    "name": "CMF Buds 2a by Nothing ANC TWS Earbuds",
+    "description": "Affordable ANC wireless earbuds with clear sound and comfortable in-ear design.",
+    "price": 4490
+  },
+  {
+    "id": "SKU-1003",
+    "name": "Redmi Buds 6 Active TWS Earbuds",
+    "description": "Budget-friendly wireless earbuds featuring ENC support and reliable battery backup.",
+    "price": 1930
+  },
+  {
+    "id": 1780111953073,
+    "name": "Product Test 1",
+    "description": "Product description1",
+    "price": 3340
+  }
+]
